@@ -168,5 +168,12 @@ namespace WindowsFormsApp4
         }
     }
     
-}
+}  //kaynaklar
+   //https://www.bilisimkonulari.com/c-roma-rakamini-sayiya-ceviren-program.html
+   //http://www.gorselprogramlama.com/klavyeden-girilen-bir-sayiyi-roma-rakamina-ceviren-program-c-console/
+   //http://www.gorselprogramlama.com/yaziyi-string%E2%80%99i-buyuk-veya-kucuk-harfe-cevirme-c-net-ders-31/
+   //https://sanalkurs.net/c-ile-degiskenleri-convert-islemleri-4782.html
+
+   //Oğuzhan Dincar-2017280073
+
 
